@@ -40,6 +40,12 @@ kdsjlfblkjsdafldsafldgdsalfg
 ``` 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
+![Caballos](https://github.com/AlbertoDeSantos/2425-smx2-a0-test/blob/main/caballos.jpg "Titulo opcional de la imagen")
+
+
+
+
+
 
 
 

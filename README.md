@@ -1,4 +1,9 @@
 # 2425-smx2-a0-test
-test primer repo smx02
-Primer cambio hecho con el bloc de notas en local.
-Segundo cambio del doc
+
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### H4
+##### H5
+###### H6
